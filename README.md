@@ -26,8 +26,11 @@
 
 <h2 align='center'>🛠 技术栈 | Tech Stack</h2>
 <p align='center'>
+    
     ![Static Badge](https://img.shields.io/badge/Python-blue%3F%26logo%3Dpython)
+    
     ![Static Badge](https://img.shields.io/badge/golang-red)
+    
     ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 </p>
 
