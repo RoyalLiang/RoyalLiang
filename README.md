@@ -50,7 +50,7 @@
 	<img src="https://img.shields.io/badge/-Markdown-777?style=flat&logo=Markdown&logoColor=blue">
 </p> 
 
-<h2 align='center'>关于我</h2>
+<h2 align='center'>关于我 | I am Eddie</h2>
 
 一个**只想过好每一天**的普通人。
 
