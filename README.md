@@ -23,6 +23,9 @@
 
 欢迎 **Double Click**。
 
+### 🛠 技术栈 | Tech Stack
+
+
 <h2 align='center'>关于我</h2>
 
 一个**只想过好每一天**的普通人。
@@ -33,6 +36,6 @@
 
 一个**很懒却又有点爱干净**的程序猿。
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyalLiang)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyalLiang&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](images/saoma.png)
