@@ -1,3 +1,11 @@
+<!-- Hello Typing Text -->
+<p align="center">
+    <img
+        alt="Hello Typing Text"
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=600&lines=Hello+I'm+Eddie.I'm+glad+I+met+you+here!"
+    />
+</p>
+
 <h2 align='center'>编程，浪子</h2>
 <p align='center'>
 <a href="https://github.com/RoyalLiang" target="_blank"><img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%40RoyalLiang-black?style=flat-square&logo=GitHub"></a>
