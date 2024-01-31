@@ -1,4 +1,3 @@
-<!-- Hello Typing Text -->
 <p align="center">
     <img
         alt="Hello Typing Text"
@@ -16,8 +15,6 @@
 <a href="https://github.com/RoyalLiang" target="_blank"><img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%40RoyalLiang-black?style=flat-square&logo=GitHub"></a>
 <a href="https://sm.ms/image/mhE7DPsvQocik1n" target="_blank"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%40%E6%82%9F%E9%81%93%E7%A8%8B%E5%BA%8F%E5%91%98-black?style=flat-square&logo=WeChat"></a>
 </p>
-
-<!-- Snake Code Contribution Map -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoyalLiang/RoyalLiang/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RoyalLiang/RoyalLiang/output/github-contribution-grid-snake.svg">
@@ -25,14 +22,33 @@
 </picture>
 
 <h2 align='center'>🛠 技术栈 | Tech Stack</h2>
-<p align='center'>
-    
-    ![Static Badge](https://img.shields.io/badge/Python-blue%3F%26logo%3Dpython)
-    
-    ![Static Badge](https://img.shields.io/badge/golang-red)
-    
-    ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+
+<p align="center">
+💻<br>
+    <img src="https://img.shields.io/badge/-Python-111?style=flat&logo=Python">
+    <img src="https://img.shields.io/badge/-Go-222?style=flat&logo=Go">
+    <img src="https://img.shields.io/badge/-Linux-333?style=flat&logo=Linux&logoColor=FCC624">
+    <img src="https://img.shields.io/badge/-Docker-444?style=flat&logo=Docker">
 </p>
+
+<p align="center">
+	🛢<br>
+	<img src="https://img.shields.io/badge/-MySQL-111?style=flat&logo=MySQL">
+	<img src="https://img.shields.io/badge/-Redis-111?style=flat&logo=Redis">
+	<img src="https://img.shields.io/badge/-PostgreSQL-111?style=flat&logo=PostgreSQL">
+	<img src="https://img.shields.io/badge/-Elastic-444?style=flat&logo=Elastic">
+</p>
+
+<p align="center">
+	🔧<br>
+	<img src="https://img.shields.io/badge/-Git-111?style=flat&logo=Git">
+	<img src="https://img.shields.io/badge/-Nginx-333?style=flat&logo=Nginx">
+	<img src="https://img.shields.io/badge/-HTML-222?style=flat&logo=HTML5">
+	<img src="https://img.shields.io/badge/-gRPC-444?style=flat&logo=gRPC">
+	<img src="https://img.shields.io/badge/-RocketMQ-555?style=flat&logo=RocketMQ">
+	<img src="https://img.shields.io/badge/-设计模式-666?style=flat&logo=DesignPattern">
+	<img src="https://img.shields.io/badge/-Markdown-777?style=flat&logo=Markdown&logoColor=blue">
+</p> 
 
 <h2 align='center'>关于我</h2>
 
